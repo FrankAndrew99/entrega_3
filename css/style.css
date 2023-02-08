@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+.body-login {
+    background-image: url(../img/pexels-rombo-10998697.jpg);
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-img {
+    background-image: url(../img/puas.jpg);
+    background-size: cover;
+}
+
+.bg-gris {
+    background-color: rgba(184, 171, 181, 0.117);
+}
+
+.bg-registro {
+    background-color: rgba(190, 190, 190, 0.357);
+}
+
+.color-titulo {
+    color: rgb(251, 254, 169);
+}
+
+.login-text {
+    color: rgb(255, 255, 255);
+}
+
+.enlace {
+    color: rgb(0, 121, 202);
+}
+
+
+.container-login {
+    width: 1000px;
+    height: 500px;
+}
+
+.container-registro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-ingreso {
+    background-color: rgb(85, 215, 85);
+}
+
+.registro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caja {
+    width: 500px;
+    height: 400px;
+}
+
+.col-img {
+    position:relative;
+}
+
+.btn-volver {
+    background-color: rgb(228, 135, 59);
+}
+
+.peligro {
+    color: rgb(170, 2, 2);
+}
+
+.body-index {
+    background-image: url(../img/pexels-rombo-10998697.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+.container-prod {
+    display: flex;
+    justify-content: center;
+}
+
+.bg-card {
+    background-color: rgba(213, 73, 73, 0.298);  
+}
